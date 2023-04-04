@@ -9,7 +9,7 @@ Script en python3 para descubrir hosts activos en red y escanear puertos abierto
 # Instalación
 
 ```
-https://github.com/Firtsmiracle/PythonScanner
+git clone https://github.com/Firtsmiracle/PythonScanner
 cd PythonScanner
 pip3 install -r requirements.txt
 python3 pythonScanner.py
