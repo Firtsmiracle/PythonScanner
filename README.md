@@ -26,7 +26,7 @@ Tenemos 2 opciones generales.
 * Si desea finalizar la ejecución presione `ctrl_c`
 
 
-
+[!](https://github.com/Firtsmiracle/PythonScanner/blob/main/pythonScanner.png)
 
 
 
