@@ -1,6 +1,6 @@
 # PythonScanner
 
-Script en python3 para descubrir hosts activos en red y escanear puertos abiertos
+Herramienta hecha en `python3` que permite descubrir Hosts Activos en la red y Escanear puertos abiertos de un  Host.
 
 * Este script esta hecho con colores para su mejor apreciación y uso
 * Incorpora hilos para que se ejecute con mayor rapidez
